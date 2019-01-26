@@ -1,0 +1,17 @@
+{
+  "name": "ipld-bignumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ipld-dag-cbor": "^0.13.1"
+  },
+  "devDependencies": {
+    "parcel": "^1.11.0"
+  }
+}
